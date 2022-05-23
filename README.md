@@ -4,9 +4,9 @@ Crear categoria con campos obligatorios y cerrar sesion de manera correcta.
 
 Paso 1: Se descarga el archivo adjunto nombrado "prueba_nectia_categoria.py" y se guarda en el ordenador correspondiente.
 
-Paso 2: Se debe iniciar el entorno de desarrollo que se desea (VS Code, Pycharm, Etc) 
+Paso 2: Se debe iniciar el entorno de desarrollo que se desea (VS Code, Pycharm, Etc) (DISPONER DE SELENIUM WEBDRIVER)
 
-Paso 3: Se procede a abrir el archivo descargado, en el cual contiene el codigo de ejecución el cual está programado en python, utilizando selenium Webdriver y XPATH para el uso de selectores, se selecciona ejecutar y se inicia el codigo de manera correcta. (se adjunta link con imagen)
+Paso 3: Se procede a abrir el archivo descargado, en el cual contiene el codigo de ejecución el cual está programado en python, utilizando selenium Webdriver y XPATH para el uso de selectores, se selecciona ejecutar y se inicia el codigo de manera correcta. (se adjunta link con imagen) 
 
 ![image](https://user-images.githubusercontent.com/93007646/169904624-cbc6b2a4-525f-4ed3-879f-c4c7d4650943.png)
 
