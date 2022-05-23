@@ -20,6 +20,11 @@ Paso 4: Se abre el navegador automaticamente ejecutando las funcionalidades envi
 -Se Adjunta código de la prueba realizada. IMPORTANTE LEER COMENTARIOS PARA CORRECTA EJECUCIÓN DE CÓDIGO.(*)
 [nectia_prueba.txt](https://github.com/Dozing6green/Prueba_QA/files/8758045/nectia_prueba.txt)
 
+-Se adjunta documento para el caso anterior (creación de mall), la ejecución de la prueba se encuentra bloqueada. 
+
+[REP_nectia.pdf](https://github.com/Dozing6green/Prueba_QA/files/8758139/REP_nectia.pdf)
+
+
 Cualquier duda o consulta respecto escribir al mail luisretamalma@gmail.com, Saludos. 
 
 
